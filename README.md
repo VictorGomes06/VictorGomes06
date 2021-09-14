@@ -38,4 +38,4 @@
  <img align= alt="Rafa-yoda" src=https://i.pinimg.com/originals/80/2f/6b/802f6b55de54cec2eeacc6df2d7cb464.gif>
 </div>
   
- ![Snake animation](https://github.com/VictorGomes06/VictorGomes06/blob/output/github-contribution-grid-snake.svg)
+
