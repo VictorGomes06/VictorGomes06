@@ -5,9 +5,12 @@
 ### olá !! 👋
 
 - 💬 Atualmente cursando Técnico em Desenvolvimento de Sistemas no Serviço Nacional de Aprendizagem Industria (SENAI);
+
 - ⚡ estudando HTML, CSS e JavaScript;
+
 - ♉touro;
 
+<hr>
 
  <div>
   <a href="https://github.com/VictorGomes06">
@@ -25,7 +28,7 @@
     <img align="center" alt="git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="github" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
-  
+  <hr>
  <div>
     <a href=https://www.instagram.com/vi.gomesyt/ target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href=https://discord.com/channels/773624915437158402/783305356649562112/ target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
