@@ -32,7 +32,7 @@
   </div>
   
  <div align="center"> 
- <img align="right" alt="Rafa-yoda" src=https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif>
+ <img align="right" alt="Rafa-yoda" src=https://i.pinimg.com/originals/80/2f/6b/802f6b55de54cec2eeacc6df2d7cb464.gif>
 </div>
   
   ![Snake animation](https://github.com/VictorGomes06/VictorGomes06/blob/output/github-contribution-grid-snake.svg)
