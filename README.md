@@ -31,5 +31,8 @@
    <a href=https://discord.com/channels/773624915437158402/783305356649562112/ target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   </div>
   
+ <div align="center"> 
+ <img align="right" alt="Rafa-yoda" src=https://www.ignboards.com/attachments/this-is-the-normal-speed-one-_fe99a9c80739d67f6a98dc8cfd3c7b69-gif.374860/>
+</div>
   
   ![Snake animation](https://github.com/VictorGomes06/VictorGomes06/blob/output/github-contribution-grid-snake.svg)
