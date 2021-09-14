@@ -11,8 +11,8 @@
 
  <div>
   <a href="https://github.com/VictorGomes06">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorGomes06&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGomes&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=VictorGomes06&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGomes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   <div style="display: inline_block" align="center">
@@ -32,7 +32,7 @@
   </div>
   
  <div align="center"> 
- <img align="right" alt="Rafa-yoda" src=https://www.ignboards.com/attachments/this-is-the-normal-speed-one-_fe99a9c80739d67f6a98dc8cfd3c7b69-gif.374860/>
+ <img align="right" alt="Rafa-yoda" src=https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif>
 </div>
   
   ![Snake animation](https://github.com/VictorGomes06/VictorGomes06/blob/output/github-contribution-grid-snake.svg)
