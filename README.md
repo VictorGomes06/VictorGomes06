@@ -1,3 +1,7 @@
+<div> 
+ <img align="right" alt="Rafa-yoda" src=https://pa1.narvii.com/6838/974aac403dce9a1b520d6169c8ad72dd054e35cd_hq.gif>
+</div>
+
 ### olá !! 👋
 
 - 💬 Atualmente cursando Técnico em Desenvolvimento de Sistemas no Serviço Nacional de Aprendizagem Industria (SENAI);
@@ -27,8 +31,5 @@
    <a href=https://discord.com/channels/773624915437158402/783305356649562112/ target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   </div>
   
-  <div style="display: inline_block" align="center">
-  <img align="right" alt="Rafa-yoda" src=https://forum.atelevisao.com/uploads/monthly_2016_12/tumblr_inline_nxjvtmGeWX1tflipi_500.gif.a56caa292eefb07b5f9987b9c7951f05.gif>
-  </div>
   
   ![Snake animation](https://github.com/VictorGomes06/VictorGomes06/blob/output/github-contribution-grid-snake.svg)
