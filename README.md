@@ -4,9 +4,10 @@
 
 ### olá !! 👋
 
-- 💬 Atualmente cursando Técnico em Desenvolvimento de Sistemas no Serviço Nacional de Aprendizagem Industria (SENAI);
+ 
+-💬 Atualmente cursando Técnico em Desenvolvimento de Sistemas no Serviço Nacional de Aprendizagem Industria (SENAI);
 
-- ⚡ estudando HTML, CSS e JavaScript;
+ -⚡ estudando HTML, CSS e JavaScript;
 
 - ♉touro;
 
