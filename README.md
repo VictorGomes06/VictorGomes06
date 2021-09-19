@@ -10,13 +10,15 @@
 
 - ♉touro;
 
+
 <hr>
 
  <div>
   <a href="https://github.com/VictorGomes06">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=VictorGomes06&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGomes06&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=VictorGomes06&show_icons=true&theme=Winter isComing&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGomes06&layout=compact&langs_count=7&theme=Winter is Coming "/>
 </div>
+
 
   <div style="display: inline_block" align="center">
     <img align="center" alt="java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -38,5 +40,4 @@
  <img align= alt="Rafa-yoda" src=https://i.pinimg.com/originals/80/2f/6b/802f6b55de54cec2eeacc6df2d7cb464.gif>
 </div>
  
-  ![Snake animation](https://github.com/VictorGomes06/VictorGomes06/blob/output/github-contribution-grid-snake.svg)
-
+ 
