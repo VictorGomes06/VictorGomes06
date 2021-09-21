@@ -44,3 +44,5 @@
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/VictorGomes06/count.svg" />
  </p>
+ 
+ ![Snake animation](https://github.com/VictorGomes06/VictorGomes06/blob/output/github-contribution-grid-snake.svg)
