@@ -41,4 +41,6 @@
  <img align= alt="Rafa-yoda" src=https://i.pinimg.com/originals/80/2f/6b/802f6b55de54cec2eeacc6df2d7cb464.gif>
 </div>
  
- 
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/VictorGomes06/count.svg" />
+ </p>
