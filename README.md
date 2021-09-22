@@ -1,23 +1,26 @@
-<div> 
- <img align="right" alt="Rafa-yoda" src=https://pa1.narvii.com/6838/974aac403dce9a1b520d6169c8ad72dd054e35cd_hq.gif>
-</div>
 
-### olá !! 👋
+<div align="center">olá !! 👋
 
+<div>
  
--💬 Atualmente cursando Técnico em Desenvolvimento de Sistemas no Serviço Nacional de Aprendizagem Industria (SENAI);
+ <img height="center" src="https://orig00.deviantart.net/bfd8/f/2018/204/e/4/homeworld_pixel_planet_f2u_by_pyjamethyst-dci25ou.gif"/>
+</div\>
+ <hr>
+ <h1> <img src="https://static.wixstatic.com/media/fe57a9_c7d5a806498f45ebbb6384e0907e3006~mv2.gif"width="40px">sobre min <img src="https://static.wixstatic.com/media/fe57a9_c7d5a806498f45ebbb6384e0907e3006~mv2.gif"width="40px"> </h1>
+ 
+💬 Atualmente cursando Técnico em Desenvolvimento de Sistemas no Serviço Nacional de Aprendizagem Industria (SENAI);
 
- -⚡ estudando HTML, CSS e JavaScript;
+ ⚡ estudando HTML, CSS e JavaScript;
 
-- ♉touro;
-
+ ♉touro;
+ </div>
 
 <hr>
 
  <div>
   <a href="https://github.com/VictorGomes06">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VictorGomes06&show_icons=true&theme=Winter isComing&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGomes06&layout=compact&langs_count=7&theme=Winter is Coming "/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=VictorGomes06&show_icons=true&theme=Winter isComing&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGomes06&layout=compact&langs_count=7&theme=Winter is Coming "/>[
 </div>
 
 
@@ -37,10 +40,7 @@
    <a href=https://discord.com/channels/773624915437158402/783305356649562112/ target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   </div>
   
- <div align="center"> 
- <img align= alt="Rafa-yoda" src=https://i.pinimg.com/originals/80/2f/6b/802f6b55de54cec2eeacc6df2d7cb464.gif>
-</div>
- 
+
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/VictorGomes06/count.svg" />
  </p>
