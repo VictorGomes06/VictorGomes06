@@ -41,10 +41,14 @@
     <a href=https://www.instagram.com/vi.gomesyt/ target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href=https://discord.com/channels/773624915437158402/783305356649562112/ target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   </div>
-  
-
+ 
+ <hr>
+ <h1> <img src="https://media2.giphy.com/media/1r94vIYNmiURZvmKOL/giphy.gif"width="60px">visitas <img src="https://media2.giphy.com/media/1r94vIYNmiURZvmKOL/giphy.gif"width="60px"> </h1>
+ 
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/VictorGomes06/count.svg" />
  </p>
+ 
+ <hr>
  
  ![Snake animation](https://github.com/VictorGomes06/VictorGomes06/blob/output/github-contribution-grid-snake.svg)
