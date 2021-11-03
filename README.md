@@ -10,7 +10,7 @@
  
 💬 Atualmente cursando Técnico em Desenvolvimento de Sistemas no Serviço Nacional de Aprendizagem Industria (SENAI);
 
- ⚡ estudando HTML, CSS e JavaScript;
+ ⚡ Estudando: HTML, CSS, JavaScript, Java ;
  
  ⚡ idade:17
 
