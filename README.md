@@ -6,7 +6,7 @@
  <img height="center" src="https://orig00.deviantart.net/bfd8/f/2018/204/e/4/homeworld_pixel_planet_f2u_by_pyjamethyst-dci25ou.gif"/>
 </div\>
  <hr>
- <h1> <img src="https://static.wixstatic.com/media/fe57a9_c7d5a806498f45ebbb6384e0907e3006~mv2.gif"width="40px">sobre mim <img src="https://static.wixstatic.com/media/fe57a9_c7d5a806498f45ebbb6384e0907e3006~mv2.gif"width="40px"> </h1>
+ <h1> <img src="https://static.wixstatic.com/media/fe57a9_c7d5a806498f45ebbb6384e0907e3006~mv2.gif"width="40px">sobre mim <img src="https://static.wixstatic.com/media/fe57a9_c7d5a806498f45ebbb6384e0907e3006~mv2.gif"width="40px"></h1>
  
 💬 Atualmente cursando Técnico em Desenvolvimento de Sistemas no Serviço Nacional de Aprendizagem Industria (SENAI);
 
