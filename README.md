@@ -1,15 +1,5 @@
 
 <div align="center">olá !! 👋
-
-<div>
- 
- <img height="center" src="https://orig00.deviantart.net/bfd8/f/2018/204/e/4/homeworld_pixel_planet_f2u_by_pyjamethyst-dci25ou.gif"/>
-</div\>
- <hr>
- <h1> Sobre mim </h1>
- 
- ⚡ idade:17
- ♉touro;
  </div>
  
 <hr>
