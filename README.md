@@ -22,10 +22,10 @@
   </div>
  
  <hr>
- <h1> visitas  </h1>
+ <h1 alinght = "center"> visitas  </h1>
  
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/VictorGomes06/count.svg" />
+   <img alinght="center" src="https://profile-counter.glitch.me/VictorGomes06/count.svg" />
  </p>
  
  <hr>
