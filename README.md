@@ -16,16 +16,16 @@
     <img align="center" alt="github" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
   <hr>
- <div>
+ <div align="center">
     <a href=https://www.instagram.com/vi.gomesyt/ target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href=https://discord.com/channels/773624915437158402/783305356649562112/ target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   </div>
  
  <hr>
- <h1 aling = "center"> visitas  </h1>
+ <h1 align="center"> visitas  </h1>
  
  <p align="center"> 
-   <img aling="center" src="https://profile-counter.glitch.me/VictorGomes06/count.svg" />
+   <img align="center" src="https://profile-counter.glitch.me/VictorGomes06/count.svg" />
  </p>
  
  <hr>
