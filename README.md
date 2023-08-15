@@ -17,7 +17,7 @@
 </div>
   <hr>
  <div align="center">
-    <a href=https://www.instagram.com/vi.gomesyt/ target="_blank"><img src=""&logoColor=white" target="_blank"></a>
+    <a href=https://www.instagram.com/vi.gomesyt/ target="_blank"><img src=""logoColor=white" target="_blank"></a>
    <a href=https://discord.com/channels/773624915437158402/783305356649562112/ target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   </div>
  
