@@ -2,7 +2,7 @@
   <a href="https://github.com/VictorGomes06">
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGomes06&layout=compact&langs_count=7&theme=Winter_is_Coming"> 
 </div>
-  <div style="display: inline_block" align="center">
+  <div align="center" style="display: inline_block" align="center">
     <img align="center" alt="java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
